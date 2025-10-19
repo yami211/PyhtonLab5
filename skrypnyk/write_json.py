@@ -18,4 +18,4 @@ data = {
 with open("people.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
-print("✅ Дані збережено у файл people.json (UTF-8)")
+print(" Дані збережено у файл people.json (UTF-8)")

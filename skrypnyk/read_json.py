@@ -1,4 +1,4 @@
-# read_json.py
+
 import json
 
 with open("people.json", "r", encoding="utf-8") as f:

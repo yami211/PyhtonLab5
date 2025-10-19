@@ -1,4 +1,4 @@
-# write_json.py
+
 import json
 
 data = {
